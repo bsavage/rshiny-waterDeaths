@@ -1,7 +1,8 @@
 #
 # Shiny app that reads 2017 water-borne deaths by country
 # and allows user to select country and age range
-# Plots bar chart.
+# Plots bar chart and shows data associated with plot.
+# (B. Savage)
 #
 
 library(shiny)
