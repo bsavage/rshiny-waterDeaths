@@ -22,7 +22,7 @@ age <- unique(df$age)
 ui <- fluidPage(
   
   # Setup title and two user input menus
-  titlePanel("Water-borne deaths by country and age (2017)"),
+  titlePanel("Water-related deaths by country and age (2017)"),
   fluidRow(
     column(4,
            selectInput("country","Country :", 
