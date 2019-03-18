@@ -12,4 +12,4 @@ A data table is provided that shows these factors, stratified by gender.
 
 Here is application in flight:
 
-![](name-of-giphy.gif)
+![](WaterDeaths2017.gif)
